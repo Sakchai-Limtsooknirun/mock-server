@@ -1,0 +1,12 @@
+function(request, response) {
+    var line_id = request.path.replace('/tellvoice/v1/survey/','');
+    var jsonResp;
+
+    if (typeof(response.body) == 'object') {
+        jsonResp = response.body;
+    } else {
+        jsonResp = JSON.parse(response.body);
+    }
+
+    jsonResp.userId = line_id;
+}

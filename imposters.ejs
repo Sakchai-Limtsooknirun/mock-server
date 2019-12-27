@@ -1,0 +1,18 @@
+{
+        "imposters": [
+                {
+                        "port": "2205",
+                        "protocol": "http",
+                        "name": "tellvoice",
+                        "stubs": [
+                                {
+                                        "predicates": [ <% include tellvoice/success/success_predicates.ejs %> ],
+                                        "responses": [ <% include tellvoice/success/success_response.ejs %> ]
+                                },
+                                {
+                                        "responses": [ <% include proxy.ejs %> ]
+                                }
+                        ]
+                }
+        ]
+}

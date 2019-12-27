@@ -1,0 +1,16 @@
+{"message":"[mb:2525] mountebank v2.1.2 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2019-12-27T04:50:29.430Z"}
+{"message":"[mb:2525] Running with --allowInjection set. See http://localhost:2525/docs/security for security info","level":"warn","timestamp":"2019-12-27T04:50:29.430Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2019-12-27T04:50:29.451Z"}
+{"message":"[http:2205 tellvoice] Open for business...","level":"info","timestamp":"2019-12-27T04:50:29.475Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:64233 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T07:31:46.662Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:64234 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T07:31:47.820Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65133 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:33.793Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65134 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:45.246Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65135 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:48.345Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65136 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:48.672Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65137 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:49.367Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65138 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:52.501Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65139 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:53.572Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65140 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:35:54.619Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65186 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T10:38:26.756Z"}
+{"message":"[mb:2525] Adios - see you soon?","level":"info","timestamp":"2019-12-27T10:48:53.535Z"}

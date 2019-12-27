@@ -1,0 +1,39 @@
+{
+   "and":[
+      {
+           "equals":{
+               "method":"POST",
+               "path": "/jaytest/v1/ok"
+           }
+      },
+      {
+         "matches":{
+           "body":{
+              "object": "page",
+              "entry": [
+                  {
+                      "id": "^.*",
+                      "time": "^.*",
+                      "messaging": [
+                          {
+                              "sender": {
+                                  "id": "^.*"
+                              },
+                              "recipient": {
+                                  "id": "^.*"
+                              },
+                              "timestamp": "^.*",
+                              "message": {
+                                  "mid": "^.*",
+                                  "text": "^.*",
+                                  "attachments": "^.*"
+                              }
+                          }
+                      ]
+                  }
+              ]
+           }
+         }
+      }
+   ]
+}

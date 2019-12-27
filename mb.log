@@ -1,0 +1,23 @@
+{"message":"[mb:2525] mountebank v2.1.2 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2019-12-27T11:18:02.225Z"}
+{"message":"[mb:2525] Running with --allowInjection set. See http://localhost:2525/docs/security for security info","level":"warn","timestamp":"2019-12-27T11:18:02.225Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2019-12-27T11:18:02.252Z"}
+{"message":"[http:2205 tellvoice] Open for business...","level":"info","timestamp":"2019-12-27T11:18:02.280Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65342 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:30:36.202Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65345 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:30:49.338Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65346 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:30:51.912Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65347 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:30:54.182Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65348 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:30:54.939Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65349 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:30:56.732Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65350 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:30:59.537Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65351 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:00.258Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65352 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:00.970Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65353 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:01.551Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65354 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:03.308Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65355 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:04.636Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65356 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:05.848Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65357 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:10.091Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65358 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:12.422Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65359 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:13.038Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65360 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:13.479Z"}
+{"message":"[http:2205 tellvoice] ::ffff:127.0.0.1:65361 => POST /jaytest/v1/ok","level":"info","timestamp":"2019-12-27T11:31:19.986Z"}
+{"message":"[mb:2525] Adios - see you soon?","level":"info","timestamp":"2019-12-27T11:32:51.461Z"}
